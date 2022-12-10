@@ -1,0 +1,15 @@
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\bin\Debug\net6.0\Zad23.exe
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\bin\Debug\net6.0\Zad23.deps.json
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\bin\Debug\net6.0\Zad23.runtimeconfig.json
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\bin\Debug\net6.0\Zad23.dll
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\bin\Debug\net6.0\Zad23.pdb
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.csproj.AssemblyReference.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.AssemblyInfoInputs.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.AssemblyInfo.cs
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.csproj.CoreCompileInputs.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.dll
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\refint\Zad23.dll
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.pdb
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\Zad23.genruntimeconfig.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad23\obj\Debug\net6.0\ref\Zad23.dll
