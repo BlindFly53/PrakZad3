@@ -1,0 +1,15 @@
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\bin\Debug\net6.0\Zad19.exe
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\bin\Debug\net6.0\Zad19.deps.json
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\bin\Debug\net6.0\Zad19.runtimeconfig.json
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\bin\Debug\net6.0\Zad19.dll
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\bin\Debug\net6.0\Zad19.pdb
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.csproj.AssemblyReference.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.AssemblyInfoInputs.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.AssemblyInfo.cs
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.csproj.CoreCompileInputs.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.dll
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\refint\Zad19.dll
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.pdb
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\Zad19.genruntimeconfig.cache
+C:\Users\12\Desktop\PrakZad3\Zadachi\Zad19\obj\Debug\net6.0\ref\Zad19.dll
